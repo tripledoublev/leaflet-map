@@ -1,9 +1,9 @@
 Setting,Customize,Hints,Examples
 Polygon Map Controls,,"For help, see tutorial in HandsOnDataViz.org      --->",https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 Polygon Legend Title,Sample Polygons:<br>Pop Density by County,Show title at top of Polygon legend (or leave blank),
-Polygon Legend Position,topleft,Display Polygon legend,
+Polygon Legend Position,off,Display Polygon legend,
 Polygon Legend Icon,fa-user-friends,Insert a Font Awesome icon (example: fa-map-signs) or leave blank,http://fontawesome.io/icons/
-Polygon GeoJSON URL,geodata/polygons-county-popdensity2018.geojson,"Polygon file pathname in your GitHub repo, or external web address (or blank if no polygon data)",
+Polygon GeoJSON URL,,"Polygon file pathname in your GitHub repo, or external web address (or blank if no polygon data)",
 Show Images When Available,off,"When a polygon is clicked, display ""img"" property in geoJSON, if available.",
 Show Polygon Labels,,Show a polygon property label at zoom levels listed below (or leave blank for none),
 Show Polygon Labels at Zoom Level,9,Polygon property label will appear at this zoom level and above,
