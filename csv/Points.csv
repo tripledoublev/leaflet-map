@@ -1,16 +1,16 @@
 Group,Marker Icon,Marker Color,Icon Color,Custom Size,Label,Image,Description,Location,Latitude,Longitude
-Community,hive,,,40x40,1° de Março,media/calais.jpg,The northern end of the East Coast Greenway. <a href='https://www.greenway.org/stories/maine-to-new-hampshire-week-1-east-coast-river-relay' target='_blank'>Read more</a>. Photo by ECG.,"Calais, ME",-5.355439663,-48.78936768
-Community,fa-bee,,,40x40,26 de Março,media/delaware.jpg,Walk or bike on <a href='https://www.delawaregreenways.org/portfolio_page/jackamarkell-trail/' target='_blank'>Jack Markell trail</a> on the East Coast Greenway.,"Jack Markell Trail, Wilmington, DE",-5.438841346,-49.0761657
-Community,fa-bee,,,40x40,Belo Vale,media/ecg-logo.png,Visit <a href='https://greenway.org' target='_blank'>Greenway.org</a> and view <a href='https://www.greenway.org/route-map' target='_blank'>the official map</a>.,"5826 Fayetteville Rd, Durham, NC 27713, USA",-5.37205209,-49.16482002
-Community,fa-bee,green,white,,Califórnia,media/icecream.jpg,Visit <a href='https://capitalicecream.com' target='_blank'>Capital Ice Cream in Hartford CT</a> and see more <a href='https://www.greenway.org/stories/churning-up-an-appetite-favorite-ice-cream-shops-along-the-east-coast-greenway' target='_blank'>favorite ice cream stops on the East Coast Greenway</a>.,"389 Capital Ave, Hartford CT",-4.96404122,-47.4761881
-Community,fa-bee,green,white,,Deus te Ama,media/coffee.png,Visit <a href='https://www.sentientbean.com' target='_blank'>Sentient Bean</a> and see more <a href='https://www.greenway.org/stories/caffeinate-your-ride-coffee-shops-along-the-greenway' target='_blank'>favorite coffee shops on the Greenway</a>.,"13 E Park Ave, Savannah GA",-4.793197794,-48.10942343
-Community,fa-bee,,,40x40,Escada Alta,media/keywest.jpg,The southern end of the East Coast Greenway.,"Key West, FL",-5.5416409,-48.7291003
-Community,fa-bee,,,,Frei Henri,,,,-6.093433631,-49.7170776
-Community,fa-bee,,,,Limoeiro,,bee,,-3.21825695,-45.00251389
-Community,fa-bee,,,,Palmares II,,,,-5.967139244,-49.85824203
-Community,fa-bee,,,,Palmeira Jussara,,,,-5.352312151,-49.21868756
-Community,fa-bee,,,,Porto do Isidoro,,,,-8.7069444,-46.55583333
-Community,fa-bee,,,,Praia Alta Piranheira,,,,-4.922525406,-49.07497406
-Community,fa-bee,,,,Santo Antônio,,,,,
-Community,fa-bee,,,,São João Batista,,,,-1.955689198,-48.33430437
-Community,fa-bee,,,,Vista Alegre,,,,-19.84567667,-44.37791428
+Community,fa-bee,green,white,40x40,1° de Março,media/calais.jpg,1° de Março,,-5.355439663,-48.78936768
+Community,fa-bee,green,white,40x40,26 de Março,media/delaware.jpg,26 de Março,,-5.438841346,-49.0761657
+Community,fa-bee,green,white,40x40,Belo Vale,media/ecg-logo.png,Belo Vale,,-5.37205209,-49.16482002
+Community,fa-bee,green,white,40x41,Califórnia,media/icecream.jpg,Califórnia,,-4.96404122,-47.4761881
+Community,fa-bee,green,white,40x42,Deus te Ama,media/coffee.png,Deus te Ama,,-4.793197794,-48.10942343
+Community,fa-bee,green,white,40x43,Escada Alta,media/keywest.jpg,Escada Alta,,-5.5416409,-48.7291003
+Community,fa-bee,green,white,40x44,Frei Henri,,Frei Henri,,-6.093433631,-49.7170776
+Community,fa-bee,green,white,40x45,Limoeiro,,Limoeiro,,-3.21825695,-45.00251389
+Community,fa-bee,green,white,40x46,Palmares II,,Palmares II,,-5.967139244,-49.85824203
+Community,fa-bee,green,white,40x47,Palmeira Jussara,,Palmeira Jussara,,-5.352312151,-49.21868756
+Community,fa-bee,green,white,40x48,Porto do Isidoro,,Porto do Isidoro,,-8.7069444,-46.55583333
+Community,fa-bee,green,white,40x49,Praia Alta Piranheira,,Praia Alta Piranheira,,-4.922525406,-49.07497406
+Community,fa-bee,green,white,40x50,Santo Antônio,,Santo Antônio,,,
+Community,fa-bee,green,white,40x51,São João Batista,,São João Batista,,-1.955689198,-48.33430437
+Community,fa-bee,green,white,40x52,Vista Alegre,,Vista Alegre,,-19.84567667,-44.37791428
